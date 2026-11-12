@@ -217,6 +217,26 @@
       "family": "verbs"
     },
     {
+      "find": "unlock your potential",
+      "replace": "do more",
+      "family": "verbs"
+    },
+    {
+      "find": "unlock your full potential",
+      "replace": "do more",
+      "family": "verbs"
+    },
+    {
+      "find": "let's dive in",
+      "replace": "here's how",
+      "family": "openers"
+    },
+    {
+      "find": "let's dive into",
+      "replace": "let's get into",
+      "family": "openers"
+    },
+    {
       "find": "unlock",
       "replace": "get",
       "family": "verbs"
@@ -969,9 +989,9 @@
     },
     {
       "id": "hashtag-wall",
-      "regex": "(?:#\\w+[ \\t]*){5,}",
-      "name": "Hashtag wall (5+)",
-      "fix": "Three hashtags. LinkedIn stopped rewarding the wall."
+      "regex": "(?:#\\w+[ \\t]*){6,}",
+      "name": "Hashtag wall (6+)",
+      "fix": "Instagram caps posts at five hashtags. Keep three to five specific topic tags."
     },
     {
       "id": "as-an-ai",
